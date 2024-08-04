@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590831441710",
+    "project_id": "cryptowatch-2760b",
+    "storage_bucket": "cryptowatch-2760b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590831441710:android:dfe3588c7a5d26f5178cbf",
+        "android_client_info": {
+          "package_name": "com.example.cryptowatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsbvrjqjtGTVuuFfYnpG2son2XrRJtOqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

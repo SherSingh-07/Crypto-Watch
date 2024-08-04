@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Floating" parent="Widget.Design.FloatingActionButton">
+        <item name="android:foreground">@drawable/floating_background</item>
+    </style>
+    
+    <style name="FabShape">
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerFamilyBottomRight">rounded</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerSize">100%</item>
+        <item name="cornerFamilyTopRight">rounded</item>
+
+    </style>
+</resources>

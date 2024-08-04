@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CryptoWatch</string>
+    <string name="real_time_exchange_rates">Real time exchange rates</string>
+    <string name="this_app_allows_you_to_monitor_the_nvalue_of_various_cryptocurrency_in_n_real_time">This app allows you to monitor the \nvalue of various cryptocurrency in \n real time.</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_15m">15 Min</string>
+    <string name="_1h">1 Hour</string>
+    <string name="_4h">4 Hour</string>
+    <string name="_1d">1 Day</string>
+    <string name="_1w">1 Weak</string>
+    <string name="_1m">1 Month</string>
+    <string name="not_found">not found</string>
+    <string name="search_hint">Search</string>
+    <string name="empty_watchlist">emptyWatchList</string>
+</resources>
